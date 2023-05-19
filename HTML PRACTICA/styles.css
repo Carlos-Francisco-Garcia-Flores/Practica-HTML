@@ -1,0 +1,50 @@
+#M{
+    text-align: center;
+    margin: 10px;
+    background-color: rgba(74, 255, 13, 0.678);
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+
+#z{
+    
+    font-weight: bold;
+}
+
+
+
+
+
+#Cuerpo{
+    color:  rgb(3, 3, 3);
+    
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.399);
+
+}
+
+#S{
+
+background: #edebef;  
+border-style:  solid;
+border-color: rgb(255, 255, 255);
+text-align: center;
+}
+
+th,td{
+    
+    border-color: rgb(0, 0, 0);
+    border-style:  solid;
+    text-align:  center;
+    padding: 5px;
+    
+}
+
+
+/* encabezado de la tabla */
+#Head{
+    margin: 10px;
+    background-color: green;
+    color: white;
+}
